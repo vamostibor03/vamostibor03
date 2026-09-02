@@ -8,24 +8,24 @@
 ## What I build
 
 Three years building software for enterprise clients across Austria, Germany and the
-Netherlands — most of it AI features inside regulated products, where "the model
+Netherlands, most of it AI features inside regulated products, where "the model
 usually gets it right" isn't good enough.
 
-- **Document AI** — schema-constrained extraction that turns unstructured PDFs into
+- **Document AI** - schema-constrained extraction that turns unstructured PDFs into
   structured records, with provenance tracking so AI-extracted and human-corrected
   values stay distinguishable and auditable.
-- **Retrieval-augmented assistants** — grounded Q&A over private document sets with
+- **Retrieval-augmented assistants** - grounded Q&A over private document sets with
   cited sources, instead of open-ended generation.
-- **Agent systems** — tool-calling agents with explicit execution traces, deterministic
+- **Agent systems** - tool-calling agents with explicit execution traces, deterministic
   fallbacks and human approval gates on anything consequential.
-- **Local-first AI** — Ollama, LM Studio, llama.cpp and faster-whisper for workloads
+- **Local-first AI** - Ollama, LM Studio, llama.cpp and faster-whisper for workloads
   that cannot leave the machine.
 
 ## How I think about LLMs
 
 Treat model output as untrusted input. Prefer a constrained schema over free text, a
 deterministic path over a clever prompt, and a narrow tool over a broad one. Most of
-the engineering in an AI feature is the part that runs *around* the model — validation,
+the engineering in an AI feature is the part that runs *around* the model - validation,
 grounding, guardrails and a way for a human to see what happened and why.
 
 ## Featured projects
