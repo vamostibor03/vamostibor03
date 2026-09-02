@@ -48,12 +48,6 @@ Client work is under NDA and stays private. The largest is a ~370k-line Austrian
 legal-tech platform where I am the top contributor (573 of 1,777 commits), covering
 AI invoice intake, payments, and electronic court filing.
 
-## Contribution snapshot
-
-<p>
-  <img src="./assets/activity-overview.svg" alt="Contribution activity overview chart" />
-</p>
-
 ## Tech stack
 
 **AI / LLM**  
