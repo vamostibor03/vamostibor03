@@ -54,11 +54,10 @@ Azure, Docker, GitHub Actions, API Management, Managed Identity, Bicep
 **AI and LLM**  
 MCP, tool calling, structured output, RAG, OCR, local inference (Ollama, LM Studio, llama.cpp), Whisper
 
-## GitHub Stats
+## GitHub Activity
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vamostibor03&show_icons=true&theme=transparent" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamostibor03&layout=compact&theme=transparent" />
+  <img height="170" src="https://streak-stats.demolab.com?user=vamostibor03&theme=transparent&hide_border=true" />
 </p>
 
 ## Contact
