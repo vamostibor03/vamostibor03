@@ -3,12 +3,6 @@
   AI engineer. I put LLMs into production workflows where wrong answers have consequences.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tiborvamos">LinkedIn</a> •
-  <a href="mailto:tibor.vamos@proton.me">Email</a> •
-  <a href="https://github.com/vamostibor03?tab=repositories">Repositories</a>
-</p>
-
 ---
 
 ## What I build
@@ -68,8 +62,3 @@ React · TanStack · Vite · Tailwind · React Native
 Azure (Container Apps, Entra ID, Managed Identity, Bicep) · Docker · GitHub Actions ·
 Railway · Vercel · Cloudflare Workers
 
-## Contact
-
-- Email: `tibor.vamos@proton.me`
-- LinkedIn: `linkedin.com/in/tiborvamos`
-- Location: Vienna, Austria
