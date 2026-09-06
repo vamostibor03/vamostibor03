@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Tibor Vamos</h1>
 <p align="center">
-  AI engineer. I put LLMs into production workflows where wrong answers have consequences.
+  I'm a full-stack engineer who loves building startups, AI-solutions and Web Applications. Just hit me up for a chat :)
 </p>
 
 ---
