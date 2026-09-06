@@ -44,21 +44,7 @@ AI invoice intake, payments, and electronic court filing.
 
 ## Tech stack
 
-**AI / LLM**  
-LLM application design · agents & tool calling · structured output · RAG & embeddings ·
-document AI & OCR · Whisper / faster-whisper · local inference (Ollama, LM Studio,
-llama.cpp) · multi-model routing · MCP servers · OpenAI, Anthropic, Gemini, OpenRouter
+I didn't study this stack to put it on a page. I think in it.
 
-**Languages**  
-TypeScript · Python · JavaScript · SQL
 
-**Backend**  
-Fastify · FastAPI · Node.js · PostgreSQL · Supabase · Azure SQL · SQLite
-
-**Frontend**  
-React · TanStack · Vite · Tailwind · React Native
-
-**Cloud and DevOps**  
-Azure (Container Apps, Entra ID, Managed Identity, Bicep) · Docker · GitHub Actions ·
-Railway · Vercel · Cloudflare Workers
 
