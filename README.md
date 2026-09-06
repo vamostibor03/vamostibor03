@@ -7,9 +7,7 @@
 
 ## What I build
 
-Three years building software for enterprise clients across Austria, Germany and the
-Netherlands, most of it AI features inside regulated products, where "the model
-usually gets it right" isn't good enough.
+Hello world! I'm a full-stack engineer who loves building startups, AI-solutions and Web Applications. Just hit me up for a chat :)
 
 - **Document AI** - schema-constrained extraction that turns unstructured PDFs into
   structured records, with provenance tracking so AI-extracted and human-corrected
