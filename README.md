@@ -23,10 +23,9 @@ usually gets it right" isn't good enough.
 
 ## How I think about LLMs
 
-Treat model output as untrusted input. Prefer a constrained schema over free text, a
-deterministic path over a clever prompt, and a narrow tool over a broad one. Most of
-the engineering in an AI feature is the part that runs *around* the model - validation,
-grounding, guardrails and a way for a human to see what happened and why.
+I assume the answer is wrong until something else proves it. The model fills in
+fields and calls small tools. If it fails, the rest of the system still has to
+work, and a person has to be able to see the step that broke.
 
 ## Featured projects
 
@@ -41,7 +40,3 @@ grounding, guardrails and a way for a human to see what happened and why.
 Client work is under NDA and stays private. The largest is a ~370k-line Austrian
 legal-tech platform where I am the top contributor (573 of 1,777 commits), covering
 AI invoice intake, payments, and electronic court filing.
-
-## Tech stack
-
-I didn't study this stack to put it on a page. I think in it.
