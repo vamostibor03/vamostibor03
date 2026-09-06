@@ -45,6 +45,3 @@ AI invoice intake, payments, and electronic court filing.
 ## Tech stack
 
 I didn't study this stack to put it on a page. I think in it.
-
-
-
